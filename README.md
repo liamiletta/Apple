@@ -2,18 +2,18 @@
 # Program make a simple calculator
 
 # This function adds two numbers
-def add(x, y):
-    return x + y
+def add(y, x):
+    return y + x
 
 # This function subtracts two numbers
-def subtract(x, y):
-    return x - y
+def subtract(y, x):
+    return y - x
 
 # This function multiplies two numbers
-def multiply(x, y):
-    return x * y
+def multiply(y, x):
+    return y * x
 
 # This function divides two numbers
-def divide(x, y):
-    return x / y
+def divide(y, x):
+    return y / x
 
